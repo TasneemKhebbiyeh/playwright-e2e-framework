@@ -61,8 +61,8 @@ The test suites are configured to execute across multiple browser engines (Chrom
 Clone the repository and install dependencies:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER_NAME>
+git clone https://github.com/TasneemKhebbiyeh/playwright-e2e-framework.git
+cd playwright-e2e-framework
 npm install
 npx playwright install
 ```
